@@ -1,4 +1,3 @@
-
 clc; clear all; close all;
 %% EEG FEATURE EXTRACTION FOR ML (DE + relative band power + HFD + Hjorth + asymmetry)
 % -------------------------------------------------------------------------
